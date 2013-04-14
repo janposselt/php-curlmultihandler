@@ -6,4 +6,4 @@ after the handler finishs.
 
 ## Usage
 
-see [example](https://github.com/janposselt/CurlMultiHandler/blob/master/example/run.php) for details.
+see [example](example/run.php) for details.
